@@ -38,6 +38,6 @@ Feel free to connect with me:
 
 - GitHub: [GitHub Profile](https://github.com/RamtekePawan)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pawan-ramteke-b4612a169)
-- Email: [pawanramteke98@gmail.com]
+- Email: pawanramteke98@gmail.com
 
 Thanks for visiting my GitHub profile! I'm excited about my journey in web development and eager to contribute to exciting projects. 😄
