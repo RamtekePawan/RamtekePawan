@@ -26,10 +26,10 @@ While I may not have professional experience yet, I'm enthusiastic about buildin
    - **Stack**: SpringBoot + React + MySQL
    - **Description**: ExamEdge Hub, a feature-rich web-based platform designed to provide students with an interactive and efficient way to participate in quizzes across various categories, such as programming, general knowledge, mathematics, and more. The portal incorporates cutting-edge technologies such as MySQL for data storage, Spring Boot for backend development, and React for frontend user interfaces. ExamEdge Hub empowers administrators to effortlessly manage categories, create quizzes, and oversee the examination process, ensuring a seamless and engaging experience for all.
 
-2. [Chief Chef Backend](https://github.com/RamtekePawan/backebd-chiefChief-react-mongodb.git) | [Chief Chef Frontend](https://github.com/RamtekePawan/chief-chef-react.git)
+2. [Voting App](https://github.com/RamtekePawan/Voting_App_MERN.git)
    - **Stack**: MongoDB + Express + ReactJS + NodeJS
-   - **Description**: Chief Chef is a web app developed by a team of three. It enables users to book chefs based on availability. Admins can register and manage chef profiles. The project emphasizes CRUD operations for efficient chef data management. It provides a user-friendly interface for seamless chef finding and booking.
-
+  - **Features**: JWT Tokens, Cookies, React, Ant Design
+ - **Description**: Aspiring software developer and creator of the Voting App, a full-stack web application leveraging JWT tokens and cookies for secure authentication. Built with React and styled using Ant Design, the app showcases a seamless and user-friendly interface for efficient data management and engagement.
 I'm constantly working on new projects to enhance my skills.
 
 ## 📫 Contact Me
