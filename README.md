@@ -28,8 +28,8 @@ While I may not have professional experience yet, I'm enthusiastic about buildin
 
 2. [Voting App](https://github.com/RamtekePawan/Voting_App_MERN.git)
    - **Stack**: MongoDB + Express + ReactJS + NodeJS
-  - **Features**: JWT Tokens, Cookies, React, Ant Design
- - **Description**: Aspiring software developer and creator of the Voting App, a full-stack web application leveraging JWT tokens and cookies for secure authentication. Built with React and styled using Ant Design, the app showcases a seamless and user-friendly interface for efficient data management and engagement.
+   - **Features**: JWT Tokens, Cookies, React, Ant Design
+  - **Description**: Aspiring software developer and creator of the Voting App, a full-stack web application leveraging JWT tokens and cookies for secure authentication. Built with React and styled using Ant Design, the app showcases a seamless and user-friendly interface for efficient data management and engagement.
 I'm constantly working on new projects to enhance my skills.
 
 ## 📫 Contact Me
