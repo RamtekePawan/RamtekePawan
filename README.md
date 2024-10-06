@@ -1,23 +1,27 @@
 # Hi there, I'm Pawan Ramteke 👋
 
-I'm a passionate aspiring Full Stack Developer with a strong interest in web development and a desire to learn and grow. I'm familiar with various technologies, including React, MySQL, Spring Boot, Java, JavaScript, Node.js, MongoDB, and Git.
+Software developer with One Year of experience creating and maintaining a standardized Question Bank
+Management System. Skilled in Node.js, Express.js, PostgreSQL, and EJS, with a focus on improving
+exam question quality and system reliability. Experienced in using Git for version control and team
+collaboration
 
 ## 🔧 Technologies & Tools
 
-- **Frontend**: React, JavaScript
-- **Backend**: Spring Boot, Node.js
-- **Databases**: MySQL, MongoDB
+- **Frontend**: React, JavaScript, JQuery
+- **Backend**:  Node.js, Spring Boot
+- **Databases**: PostgreSQL, MySQL, MongoDB
 - **Version Control**: Git
 - **Other**: Java, HTML, CSS, REST APIs
 
-## 🌱 Currently Learning
+## 👩‍💻 Work Projects
 
-As a fresher, I'm actively learning and building my skills. Currently, I'm focused on:
+   1. [ Question Bank Management System ](https://qbm.svkm.ac.in)
 
-- Learning more about web development best practices.
-- Expanding my knowledge of JavaScript and React.
-- Exploring backend development with Spring Boot and Node.js.
-
+      - **Stack**: Nodejs + Express + PostgreSQL + JQuery
+      - **Description**: Developed a standardized Question Bank Management System using Node.js, Express.js, and
+            PostgreSQL to enhance the quality and consistency of university exam questions.  Created dynamic front-end interfaces with EJS and managed server-side logic for efficient data handling. Used Git for version control and collaborated with the team to ensure timely delivery and system
+reliability.This project standardized the creation of questions for University exams to cover questions standard
+   
 ## 🌐 Projects
 
 While I may not have professional experience yet, I'm enthusiastic about building projects. Here are some of my recent projects:
