@@ -1,6 +1,6 @@
 # Hi there, I'm Pawan Ramteke 👋
 
-Software developer with One Year of experience creating and maintaining a standardized Question Bank
+Software developer with 1 year and 5 months of experience creating and maintaining a standardized Question Bank
 Management System. Skilled in Node.js, Express.js, PostgreSQL, and EJS, with a focus on improving
 exam question quality and system reliability. Experienced in using Git for version control and team
 collaboration
